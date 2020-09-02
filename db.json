@@ -1,118 +1,118 @@
 {
-  "links": [
-    {
-      "id": 1,
-      "title": "HR-TOOL",
-      "description": "Company tool that helps you get acquainted with the staff, see subordination structure.",
-      "url": "https://office.codeit.pro",
-      "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
-    },
-    {
-      "id": 22,
-      "title": "RedMine",
-      "url": "https://redmine.codeit.pro",
-      "description": "Task manager",
-      "img": ""
-    },
-    {
-      "id": 67,
-      "title": "WIKI",
-      "url": "https://ru.wikipedia.org",
-      "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
-    },
-    {
-      "id": 3,
-      "title": "Linkin Park",
-      "url": "https://ru.wikipedia.org",
-      "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
-    },
-    {
-      "id": 9,
-      "title": "Linkin Park",
-      "url": "https://www.linkinpark.com/",
-      "img": "https://images.squarespace-cdn.com/content/v1/583863c1e6f2e1216884123c/1501780578502-9VLVVYAWB2JLO86NWA0U/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH33scGBZjC30S7EYewNF5iKKwhonf2ThqWWOBkLKnojuqYeU1KwPvsAK7Tx5ND4WE/image-asset.jpeg?format=500w"
-    },
-    {
-      "id": 123,
-      "title": "HR-TOOL",
-      "description": "Company tool that helps you get acquainted with the staff, see subordination structure.",
-      "url": "https://office.codeit.pro",
-      "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
-    },
-    {
-      "id": 223,
-      "title": "RedMine",
-      "url": "https://redmine.codeit.pro",
-      "description": "Task manager",
-      "img": ""
-    },
-    {
-      "id": 6447,
-      "title": "WIKI",
-      "url": "https://ru.wikipedia.org",
-      "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
-    },
-    {
-      "id": 12344,
-      "title": "Linkin Park",
-      "url": "https://ru.wikipedia.org",
-      "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
-    },
-    {
-      "id": 444,
-      "title": "Linkin Park",
-      "url": "https://www.linkinpark.com/",
-      "img": "https://images.squarespace-cdn.com/content/v1/583863c1e6f2e1216884123c/1501780578502-9VLVVYAWB2JLO86NWA0U/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH33scGBZjC30S7EYewNF5iKKwhonf2ThqWWOBkLKnojuqYeU1KwPvsAK7Tx5ND4WE/image-asset.jpeg?format=500w"
-    },
-    {
-      "id": 333,
-      "title": "HR-TOOL",
-      "description": "Company tool that helps you get acquainted with the staff, see subordination structure.",
-      "url": "https://office.codeit.pro",
-      "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
-    },
-    {
-      "id": 645,
-      "title": "RedMine",
-      "url": "https://redmine.codeit.pro",
-      "description": "Task manager",
-      "img": ""
-    },
-    {
-      "id": 12450,
-      "title": "WIKI",
-      "url": "https://ru.wikipedia.org",
-      "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
-    },
-    {
-      "id": 833,
-      "title": "Linkin Park",
-      "url": "https://ru.wikipedia.org",
-      "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
-    },
-    {
-      "id": 7325,
-      "title": "Linkin Park",
-      "url": "https://www.linkinpark.com/",
-      "img": "https://images.squarespace-cdn.com/content/v1/583863c1e6f2e1216884123c/1501780578502-9VLVVYAWB2JLO86NWA0U/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH33scGBZjC30S7EYewNF5iKKwhonf2ThqWWOBkLKnojuqYeU1KwPvsAK7Tx5ND4WE/image-asset.jpeg?format=500w"
+    "links": [
+        {
+            "id": 1,
+            "title": "HR-TOOL",
+            "description": "Company tool that helps you get acquainted with the staff, see subordination structure.",
+            "url": "https://office.codeit.pro",
+            "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
+        },
+        {
+            "id": 22,
+            "title": "RedMine",
+            "url": "https://redmine.codeit.pro",
+            "description": "Task manager",
+            "img": ""
+        },
+        {
+            "id": 67,
+            "title": "WIKI",
+            "url": "https://ru.wikipedia.org",
+            "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
+        },
+        {
+            "id": 3,
+            "title": "Linkin Park",
+            "url": "https://ru.wikipedia.org",
+            "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
+        },
+        {
+            "id": 9,
+            "title": "Linkin Park",
+            "url": "https://www.linkinpark.com/",
+            "img": "https://images.squarespace-cdn.com/content/v1/583863c1e6f2e1216884123c/1501780578502-9VLVVYAWB2JLO86NWA0U/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH33scGBZjC30S7EYewNF5iKKwhonf2ThqWWOBkLKnojuqYeU1KwPvsAK7Tx5ND4WE/image-asset.jpeg?format=500w"
+        },
+        {
+            "id": 123,
+            "title": "HR-TOOL",
+            "description": "Company tool that helps you get acquainted with the staff, see subordination structure.",
+            "url": "https://office.codeit.pro",
+            "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
+        },
+        {
+            "id": 223,
+            "title": "RedMine",
+            "url": "https://redmine.codeit.pro",
+            "description": "Task manager",
+            "img": ""
+        },
+        {
+            "id": 6447,
+            "title": "WIKI",
+            "url": "https://ru.wikipedia.org",
+            "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
+        },
+        {
+            "id": 12344,
+            "title": "Linkin Park",
+            "url": "https://ru.wikipedia.org",
+            "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
+        },
+        {
+            "id": 444,
+            "title": "Linkin Park",
+            "url": "https://www.linkinpark.com/",
+            "img": "https://images.squarespace-cdn.com/content/v1/583863c1e6f2e1216884123c/1501780578502-9VLVVYAWB2JLO86NWA0U/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH33scGBZjC30S7EYewNF5iKKwhonf2ThqWWOBkLKnojuqYeU1KwPvsAK7Tx5ND4WE/image-asset.jpeg?format=500w"
+        },
+        {
+            "id": 333,
+            "title": "HR-TOOL",
+            "description": "Company tool that helps you get acquainted with the staff, see subordination structure.",
+            "url": "https://office.codeit.pro",
+            "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
+        },
+        {
+            "id": 645,
+            "title": "RedMine",
+            "url": "https://redmine.codeit.pro",
+            "description": "Task manager",
+            "img": ""
+        },
+        {
+            "id": 12450,
+            "title": "WIKI",
+            "url": "https://ru.wikipedia.org",
+            "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
+        },
+        {
+            "id": 833,
+            "title": "Linkin Park",
+            "url": "https://ru.wikipedia.org",
+            "img": "//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/125px-Wikipedia-logo-v2.svg.png"
+        },
+        {
+            "id": 7325,
+            "title": "Linkin Park",
+            "url": "https://www.linkinpark.com/",
+            "img": "https://images.squarespace-cdn.com/content/v1/583863c1e6f2e1216884123c/1501780578502-9VLVVYAWB2JLO86NWA0U/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH33scGBZjC30S7EYewNF5iKKwhonf2ThqWWOBkLKnojuqYeU1KwPvsAK7Tx5ND4WE/image-asset.jpeg?format=500w"
+        }
+    ],
+    "user": {
+        "name": "Mariia Voino-Danchyshyna",
+        "avatars": {
+            "0": "https://office.codeit.pro/user/251/251/avatar.jpg?t=1540198124",
+            "234": "https://office.codeit.pro/user/251/251/avatar234.jpg?t=1540198124"
+        },
+        "roles": ["HR Team"],
+        "employed": "2018-09-13",
+        "positions": {
+            "46": {
+                "id": 46,
+                "title": "PR/Event Manager",
+                "badgeColor": null,
+                "badgeTitle": null,
+                "ordering": 0
+            }
+        }
     }
-  ],
-  "user": {
-    "name": "Mariia Voino-Danchyshyna",
-    "avatars": {
-      "0": "https://office.codeit.pro/user/251/251/avatar.jpg?t=1540198124",
-      "234": "https://office.codeit.pro/user/251/251/avatar234.jpg?t=1540198124",
-    },
-    "roles": ["HR Team"],
-    "employed": "2018-09-13",
-    "positions": {
-      "46": {
-        "id": 46,
-        "title": "PR/Event Manager",
-        "badgeColor": null,
-        "badgeTitle": null,
-        "ordering": 0,
-      },
-    },
-  }
 }
