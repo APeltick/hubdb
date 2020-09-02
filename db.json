@@ -99,6 +99,20 @@
   ],
   "user": {
     "name": "Mariia Voino-Danchyshyna",
-    "avatar": "https://office.codeit.pro/user/251/251/avatar234.jpg?t=1540198124"
+    "avatars": {
+      "0": "https://office.codeit.pro/user/251/251/avatar.jpg?t=1540198124",
+      "234": "https://office.codeit.pro/user/251/251/avatar234.jpg?t=1540198124",
+    },
+    "roles": ["HR Team"],
+    "employed": "2018-09-13",
+    "positions": {
+      "46": {
+        "id": 46,
+        "title": "PR/Event Manager",
+        "badgeColor": null,
+        "badgeTitle": null,
+        "ordering": 0,
+      },
+    },
   }
 }
