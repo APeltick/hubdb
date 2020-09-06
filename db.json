@@ -1,9 +1,9 @@
 {
     "links": [
         {
-            "id": 1,
+            "id": 4,
             "title": "HR-TOOL",
-            "description": "Company tool that helps you get acquainted with the staff, see subordination structure.",
+            "description": "Company tool that helps you get acquainted with the staff",
             "url": "https://office.codeit.pro",
             "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
         },
@@ -35,7 +35,7 @@
         {
             "id": 123,
             "title": "HR-TOOL",
-            "description": "Company tool that helps you get acquainted with the staff, see subordination structure.",
+            "description": "Company tool that helps you get acquainted with the staff",
             "url": "https://office.codeit.pro",
             "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
         },
@@ -67,7 +67,7 @@
         {
             "id": 333,
             "title": "HR-TOOL",
-            "description": "Company tool that helps you get acquainted with the staff, see subordination structure.",
+            "description": "Company tool that helps you get acquainted with the staff",
             "url": "https://office.codeit.pro",
             "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
         },
