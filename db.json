@@ -3,7 +3,7 @@
         {
             "id": 4,
             "title": "HR-TOOL",
-            "description": "Company tool that helps you get acquainted with the staff",
+            "desc": "Company tool that helps you get acquainted with the staff",
             "url": "https://office.codeit.pro",
             "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
         },
@@ -11,7 +11,7 @@
             "id": 22,
             "title": "RedMine",
             "url": "https://redmine.codeit.pro",
-            "description": "Task manager",
+            "desc": "Task manager",
             "img": ""
         },
         {
@@ -35,7 +35,7 @@
         {
             "id": 123,
             "title": "HR-TOOL",
-            "description": "Company tool that helps you get acquainted with the staff",
+            "desc": "Company tool that helps you get acquainted with the staff",
             "url": "https://office.codeit.pro",
             "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
         },
@@ -43,7 +43,7 @@
             "id": 223,
             "title": "RedMine",
             "url": "https://redmine.codeit.pro",
-            "description": "Task manager",
+            "desc": "Task manager",
             "img": ""
         },
         {
@@ -67,7 +67,7 @@
         {
             "id": 333,
             "title": "HR-TOOL",
-            "description": "Company tool that helps you get acquainted with the staff",
+            "desc": "Company tool that helps you get acquainted with the staff",
             "url": "https://office.codeit.pro",
             "img": "https://s.dou.ua/CACHE/images/img/static/companies/Social_networks_CodeIT/5a26a0b940e27b1ed3b056dc8ca41b3a.png"
         },
@@ -75,7 +75,7 @@
             "id": 645,
             "title": "RedMine",
             "url": "https://redmine.codeit.pro",
-            "description": "Task manager",
+            "desc": "Task manager",
             "img": ""
         },
         {
